@@ -1,0 +1,5 @@
+# Config file of ReplaceBiome plugin
+
+replaceBiomes:
+#Exemple :
+#  - biomeID->biomeName
