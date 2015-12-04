@@ -3,3 +3,4 @@
 replaceBiomes:
 #Exemple :
 #  - biomeID->biomeName
+#Biome name list : https://raw.githubusercontent.com/Azuxul/ReplaceBiome/master/biomeList.txt
